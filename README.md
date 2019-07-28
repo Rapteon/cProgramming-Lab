@@ -1,2 +1,3 @@
  cPrograms
-          ...from the second semester of college.
+!!!THIS REPOSITORY HAS BEEN ARCHIVED, THOUGH YOU CAN STILL FORK IT.!!!
+C-Programming-Lab files from College
